@@ -118,11 +118,12 @@ namespace GuessingGame
 
             Console.Clear();
             Console.WriteLine();
+            Console.WriteLine();
             Console.WriteLine("\t\t\t\t          Welcome to the Number Guessing Game!");
             Console.WriteLine();
+            Console.WriteLine("\t\t\t\t         Designed by: Ryan Vorpagel for CIT 110");
             Console.WriteLine();
-
-
+            Console.WriteLine();
 
             DisplayContinuePrompt();
         }
