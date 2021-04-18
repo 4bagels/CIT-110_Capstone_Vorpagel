@@ -9,16 +9,16 @@ namespace GuessingGame
 {
     class Program
     {
-        // **************************************************
+        // ***************************************************************
         //
         // Title: Guessing Game
         // Application Type: Console
         // Description: CIT 110 - Capstone Project - Number Guessing Game
         // Author: Vorpagel, Ryan
         // Dated Created: 4/09/2021
-        // Last Modified: 4/17/2021
+        // Last Modified: 4/18/2021
         //
-        // **************************************************
+        // ***************************************************************
 
         static void Main(string[] args)
         {
